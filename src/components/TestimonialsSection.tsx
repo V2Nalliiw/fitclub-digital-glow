@@ -42,7 +42,7 @@ const TestimonialsSection = () => {
       location: "São Paulo, SP",
       content: "O FitClub revolucionou minha prática! Agora consigo acompanhar todos os meus pacientes de forma automática e personalizada. A taxa de engajamento aumentou 60%!",
       rating: 5,
-      image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+      image: "https://images.unsplash.com/photo-1594824371259-85f3e3e4cab8?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
     },
     {
       name: "Dr. Carlos Mendes",
@@ -50,7 +50,7 @@ const TestimonialsSection = () => {
       location: "Rio de Janeiro, RJ",
       content: "Fantástico! Meus pacientes agora recebem lembretes automáticos e dicas personalizadas. O tempo que economizo é incrível e os resultados são visíveis.",
       rating: 5,
-      image: "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+      image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
     },
     {
       name: "Dra. Mariana Costa",
@@ -58,7 +58,7 @@ const TestimonialsSection = () => {
       location: "Belo Horizonte, MG",
       content: "A integração com WhatsApp é perfeita! Meus pacientes se sentem mais próximos e seguem melhor as orientações. Recomendo para todos os colegas!",
       rating: 5,
-      image: "https://images.unsplash.com/photo-1594824371259-85f3e3e4cab8?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+      image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
     }
   ];
 

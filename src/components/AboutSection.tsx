@@ -31,25 +31,25 @@ const AboutSection = () => {
       icon: <Users className="w-8 h-8" />,
       title: "Pacientes Engajados",
       description: "Mantenha seus pacientes motivados com lembretes automáticos e dicas personalizadas de saúde.",
-      image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+      image: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
     },
     {
       icon: <Bot className="w-8 h-8" />,
       title: "Automação Inteligente",
       description: "Fluxos automatizados que funcionam 24/7, enviando conteúdo relevante no momento certo.",
-      image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+      image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
     },
     {
       icon: <Calendar className="w-8 h-8" />,
       title: "Gestão Simplificada",
       description: "Organize consultas, acompanhe progresso e gerencie sua clínica em uma única plataforma.",
-      image: "https://images.unsplash.com/photo-1551601651-2a8555f1a136?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+      image: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
     },
     {
       icon: <BarChart className="w-8 h-8" />,
       title: "Resultados Mensuráveis",
       description: "Relatórios detalhados sobre engajamento dos pacientes e eficácia dos tratamentos.",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
     }
   ];
 
